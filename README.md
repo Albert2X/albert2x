@@ -1,11 +1,15 @@
-## Hi there 👋
+### Hi, I'm Yingbin Zhou 👋
+
+![Yingbin Zhou's github stats](https://github-readme-stats.vercel.app/api?username=albert2x&show_icons=true&hide=prs&count_private=false&theme=default_repocard&include_orgs=true)
+
+✧ Homepage: https://albert2x.github.io/
 
 <!--
-**Albert2X/albert2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**albert2x/albert2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
